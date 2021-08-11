@@ -13,11 +13,13 @@
             sm:text-4xl
           "
         >
-          Skins
+          Twitch Skins
         </h2>
       </div>
-      <!-- eslint-disable-next-line vue/no-v-html -->
-      <div class="prose prose-purple" v-html="skins" />
+      <div class="mt-6 pt-6">
+        <!-- eslint-disable-next-line vue/no-v-html -->
+        <div class="prose prose-purple max-w-full" v-html="skins" />
+      </div>
     </div>
   </section>
 </template>

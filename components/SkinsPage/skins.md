@@ -1,26 +1,39 @@
-# Esto es la página de skins
+Esta es la página de los skins / streaming-outfits (o disfraces) que tengo disponibles para usar en Twitch
+En la cabecera de la página comenta que son los disfraces que puedes usar en tu stream de twich, que pueden canjearse por puntos del canal (RambitoPoints)
 
-> Esta es la descripción de la página de skins
+## Collar hawaiano
 
-# [skins](http://baumannzone.dev/skins)
+**300 RambitoPoints**
 
-<a href="http://stackoverflow.com" target="_blank">Go</a>
+![collar hawaiano](https://picsum.photos/600/300?image=40)
 
-- hola
-- que
-- hace
-- usted
-- esta
-- fecha
-- hoy
-- hace
-- un
-- día
-- hace
-- un
-- mes
-- hace
-- un
-- año
+## Floripondio rojo
 
-lorem ipsum ipsum ipsum.
+> Broche de clavel rojo para barba
+
+**300 RambitoPoints**
+
+![broche clavel rojo](https://picsum.photos/600/300?image=30)
+
+## Gafas
+
+**300 RambitoPoints**
+
+- Gafas de unicornio
+- Gafas negras de plástico sin cristal
+
+![gafas negras de plástico sin cristal](https://picsum.photos/600/300?image=10)
+
+## Antenitas de purpurina
+
+**3.000 RambitoPoints**
+
+![Antenitas de purpurina](https://picsum.photos/600/300?image=50)
+
+## Mascara de caballo
+
+> Baumann-Horse Mask
+
+**10.000 RambitoPoints**
+
+![Antenitas de purpurina](https://picsum.photos/600/300?image=60)
