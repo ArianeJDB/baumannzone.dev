@@ -1,8 +1,8 @@
 const routes = {
   HOME: '/',
   BLOG: '/blog',
-  CSS_ART: '/css-art',
   USES: '/uses',
+  SKINS: '/skins',
 }
 
 const navItems = [
@@ -18,6 +18,10 @@ const navItems = [
   {
     text: 'Usos',
     to: routes.USES,
+  },
+  {
+    text: 'Skins',
+    to: routes.SKINS,
   },
 ]
 
